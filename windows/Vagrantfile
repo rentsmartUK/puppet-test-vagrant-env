@@ -1,0 +1,9 @@
+Vagrant.configure(2) do |config|
+
+  # Set Windows Server 2012 R2
+  config.vm.box = "opentable/win-2012r2-standard-amd64-nocm"
+
+  # Set the hostname
+  config.vm.hostname = "agent-windows"
+
+end
