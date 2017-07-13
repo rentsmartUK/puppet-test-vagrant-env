@@ -42,5 +42,5 @@ Please read carefully the example provided in code, as there are modules specifi
 
 Please bear in mind that this repository is public, so do not post sensitive data.
 
-`binaries` contains the desired puppet-agent binaries that need to be installed into the Windows agent
-`code` contains the puppet test code 
+- `binaries` contains the desired puppet-agent binaries that need to be installed into the Windows agent
+- `code` contains the puppet test code 
